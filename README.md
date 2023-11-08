@@ -1,3 +1,3 @@
-# IntmedicaBackend-frontend
+# IntmedicaBackend
 
 REWRITE ME! 
